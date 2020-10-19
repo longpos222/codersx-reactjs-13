@@ -7,4 +7,4 @@
 
 ScreenShot
 
-![Image](/codersx-reactjs-13/public/Screen-Recording.gif)
+![Image](public/Screen-Recording.gif)
